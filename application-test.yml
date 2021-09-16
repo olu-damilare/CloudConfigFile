@@ -1,9 +1,0 @@
-my.greeting: Welcome to slimdaddy's haven from config server
-list.values: One,Two,Three,four
-
-db:
-  Values: "{connectionString: 'http://___', userName: 'slim', password: 'pass'}"
-
-  connection: test-connection-from-config-server
-  host: 127.0.0.1
-  port: 2400
